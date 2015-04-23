@@ -2,10 +2,10 @@
 
 class Connection{
     // Database of the system
-    const HOST = "host";
-    const DATABASE = "db";
-    const USERNAME = "user";
-    const PASSWORD = "pass";
+    const HOST = "jefersonrc.com.br";
+    const DATABASE = "revol760_faj_integracaoprofissional4";
+    const USERNAME = "revol760_fajip43";
+    const PASSWORD = "g$.kT8SPzS(eNmb*yo";
 
     public function connectionLocal(){
 
