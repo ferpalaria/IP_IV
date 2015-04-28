@@ -11,7 +11,7 @@ if( is_file( 'nav'.$pg.'.php' ) )
 	include 'nav'.$pg.'.php';
 		
 else  
-	include 'nav/login.php';	
+	include 'nav/home.php';	
 	
 	
 

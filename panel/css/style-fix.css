@@ -1,4 +1,9 @@
 *{margin:0;padding:0; border:0}
+body{
+	background:url("../img/image.jpg");	
+	background-attachment:fixed;
+	background-position:center;
+}
 .container{
 	width:980px;
 	margin:10px auto;
@@ -34,9 +39,9 @@
 }
 .menu{
 	width:980px;
-	margin:0 auto;
+	margin:0 auto 10px auto;
 	float:left;
-	background:#069;	
+	background:#3f2860;	
 	border-radius:10px;
 	height:35px;
 	line-height:35px;
